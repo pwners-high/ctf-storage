@@ -1,0 +1,24 @@
+Welcome to Dr. J's Random Number Generator v1! 
+[r] Print a new random number 
+[g] Guess the next two random numbers and receive the flag! 
+[q] Quit 
+
+> r
+2060025065475001
+> 6282777863209
+> 
+> g
+
+Guess the next two random numbers for a flag! You have a 0.0000000000000000000000000000001% chance of guessing both correctly... Good luck!
+Enter your first guess:
+> 6282777863209
+
+Wow, lucky guess... You won't be able to guess right a second time.
+Enter your second guess:
+> 799633181061796
+
+What? You must have psychic powers... Well here's your flag: nactf{1_l0v3_chunky_7urn1p5}
+
+
+--------------------
+if you know prev number, you can easily predict next random value!!

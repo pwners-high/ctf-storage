@@ -1,0 +1,7 @@
+Format #1
+250
+printf can do more than just read memory... can you change the variable?
+
+Connect at nc shell.2019.nactf.com 31560
+
+Hint : Check a list of printf conversion specifiers

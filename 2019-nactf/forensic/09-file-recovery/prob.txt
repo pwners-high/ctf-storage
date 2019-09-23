@@ -1,0 +1,7 @@
+File recovery
+300
+Uh oh! Lillian has accidentally deleted everything on her flash drive! Here's an image of the drive; find the PNG and get the flag.
+
+Hint: Although the file entry is gone from the filesystem, its contents are still on disk
+
+Hint2: If only there were tools to find file signatures...

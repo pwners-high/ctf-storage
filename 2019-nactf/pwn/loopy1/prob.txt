@@ -1,0 +1,8 @@
+Loopy #1
+500
+Same program as Loopy #0, but someone's turned on the stack protector now!
+
+Connect at nc shell.2019.nactf.com 31732
+
+Hint1: You will need to call printf quite a few times
+Hint2: What happens when the stack canary check fails?

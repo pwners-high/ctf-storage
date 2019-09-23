@@ -1,0 +1,30 @@
+26
+1294
+0
+0
+0
+0
+0
+0
+0 5
+[*] Switching to interactive mode
+> $ g
+
+Guess the next four random numbers for a flag! Dr. Strange sees fourteen million six hundred and five possibilies... and you only guess correctly in one. Good luck!
+Enter your first guess:
+> $ 0
+
+Yeah, yeah, one correct guess is easy.
+Enter your second guess:
+> $ 0
+
+Okay, you're lucky... You won't be able to guess right a third time.
+Enter your third guess:
+> $ 0
+
+Wow. I'll admit I'm impressed. This is the final test. 
+Enter your fourth guess:
+> $ 0
+
+Oh no... we're in the endgame now... Here's your flag:
+nactf{th3_b35t_pr3d1ct0r_0f_fu7ur3_b3h4v10r_15_p4st_b3h4v10r}
